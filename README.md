@@ -88,7 +88,6 @@ Test #9
 4. Enter "Emily John"
 5. Check that following record appeas:
 
-#	Task			    Assignee		  Status
 4	Bootstrap 3		Emily John		in progress
 
 
