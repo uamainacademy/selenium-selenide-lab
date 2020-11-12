@@ -54,7 +54,7 @@ Test #6
 3. Click on the "Select Dropdown List"
 4. In the "Multi Select List Demo" select New York and Florida
 5. Click on "Get All Selected" button
-6. Check that text appears: "Options selected are : Florida,New York"
+6. Check that text appears: "Options selected are : Florida,New York" (application bug here)
 
 
 Test #7
