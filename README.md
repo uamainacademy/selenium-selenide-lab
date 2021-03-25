@@ -73,13 +73,6 @@ Test #8
 5. Check that YESTERDAY date appears at the Select Date field
 
 
-Test #9
-1. Go to the https://www.seleniumeasy.com/test/
-2. Click on the "Date pickers"
-3. Click on the "Bootstrap Date Picker"
-4. In the "Date Example" select YESTERDAY date
-5. Check that YESTERDAY date appears at the Select Date field
-
 
 Test #9
 1. Go to the https://www.seleniumeasy.com/test/
